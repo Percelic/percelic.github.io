@@ -1,6 +1,7 @@
 ---  
   layout: post  
-  title: MySQL posting Test2입니다
+  title: MySQL posting Test2
+  parent: MySQL   
 ---  
 
 ## MySQL posting Test2  
