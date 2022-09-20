@@ -2,6 +2,7 @@
   layout: post  
   title: MySQL posting Test2
   parent: MySQL   
+  grand_parent: Tech & Language  
 ---  
 
 ## MySQL posting Test2  
