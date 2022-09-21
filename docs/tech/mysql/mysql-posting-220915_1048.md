@@ -3,7 +3,6 @@
   title: MySQL posting Test2
   parent: MySQL   
   grand_parent: Tech & Language  
-  date: YYYY-MM-DD hh:mm:ss  
 ---  
 
 ## MySQL posting Test2  
