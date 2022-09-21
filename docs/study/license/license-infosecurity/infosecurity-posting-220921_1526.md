@@ -1,7 +1,7 @@
 ---  
   layout: post  
   title: 정보보안기사 posting Test1
-  parent: 정보보안기사     
+  parent: Engineer Information Security   
   grand_parent: License  
   last_modified_date: 2022-09-21 15:26:00 +0900  
 ---  
