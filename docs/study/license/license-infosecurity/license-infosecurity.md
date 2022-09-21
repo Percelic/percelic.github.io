@@ -1,6 +1,6 @@
 ---  
   layout : default  
-  title : 정보보안기사   
+  title : Engineer Information Security     
   has_children : true   
   parent: License  
   grand_parent: Study  

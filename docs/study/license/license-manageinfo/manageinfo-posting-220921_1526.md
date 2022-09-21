@@ -1,7 +1,7 @@
 ---  
   layout: post  
   title: 정보관리기술사 posting Test1
-  parent: 정보관리기술사     
+  parent: Professional Engineer Information Management    
   grand_parent: License  
   last_modified_date: 2022-09-21 15:26:00 +0900  
 ---  

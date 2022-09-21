@@ -1,6 +1,6 @@
 ---  
   layout : default  
-  title : 정보관리기술사  
+  title : Professional Engineer Information Management    
   has_children : true  
   parent: License  
   grand_parent: Study  
