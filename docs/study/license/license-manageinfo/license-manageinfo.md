@@ -17,4 +17,4 @@
   - Posting 링크 양식 : ../license-manageinfo/manageinfo-posting-{YYMMDD_HHmm}
 
 ### Post 목록   
-  [`#1 [정보보안기술사] posting test1 22/09/21 15:26`]({{site.baseurl}}{% link docs/study/license/license-manageinfo/manageinfo-posting-220921_1526.md %})  
+  [`#1 [정보관리기술사] posting test1 22/09/21 15:26`]({{site.baseurl}}{% link docs/study/license/license-manageinfo/manageinfo-posting-220921_1526.md %})  

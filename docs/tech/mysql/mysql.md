@@ -4,7 +4,7 @@
   has_children : true  
   parent: Tech & Language
   permalink: docs/tech/mysql
-  
+  has_toc: false  
 ---  
 
 ## Tech 

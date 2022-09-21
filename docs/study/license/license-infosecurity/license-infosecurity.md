@@ -5,7 +5,7 @@
   parent: License  
   grand_parent: Study  
   permalink: docs/study/license/license-infosecurity  
-  
+  has_toc: false  
 ---  
 
 ## {{ page.title }} 

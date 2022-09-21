@@ -4,7 +4,7 @@
   nav_order : 3
   has_children : true  
   permalink: docs/tech  
-  
+  has_toc: false  
 ---  
 
 ## Tech 
