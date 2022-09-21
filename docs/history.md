@@ -2,6 +2,7 @@
   layout: default  
   title: History about projects
   nav_order: 1  
+  date: YYYY-MM-DD hh:mm:ss -0000
 ---  
 
 ## History  
