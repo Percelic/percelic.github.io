@@ -4,7 +4,7 @@
   has_children : true  
   parent: License  
   grand_parent: Study  
-  permalink: docs/license/license-manageinfo  
+  permalink: docs/study/license/license-manageinfo  
   
 ---  
 

@@ -4,7 +4,7 @@
   has_children : true   
   parent: License  
   grand_parent: Study  
-  permalink: docs/license/license-infosecurity  
+  permalink: docs/study/license/license-infosecurity  
   
 ---  
 
@@ -17,4 +17,4 @@
   - Posting 링크 양식 : ../license-infosecurity/infosecurity-posting-{YYMMDD_HHmm}
 
 ### Post 목록   
-  [`#1 [정보보안기사] posting test1 22/09/21 15:26`]({{site.baseurl}}{% link docs/license/license-infosecurity/infosecurity-posting-220921_1526.md %})  
+  [`#1 [정보보안기사] posting test1 22/09/21 15:26`]({{site.baseurl}}{% link docs/study/license/license-infosecurity/infosecurity-posting-220921_1526.md %})  
