@@ -1,9 +1,9 @@
 ---  
   layout: post  
-  title: Golang posting Test1
-  parent: Golang   
-  grand_parent: Tech & Language  
-  last_modified_date: 2022-09-21 14:28:00 +0900  
+  title: 정보보안기사 posting Test1
+  parent: 정보보안기사     
+  grand_parent: License  
+  last_modified_date: 2022-09-21 15:26:00 +0900  
 ---  
 
 ## {{ page.title }}  
